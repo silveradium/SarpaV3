@@ -1,0 +1,21 @@
+2024-08-31 22:29:06.747 xcodebuild[5798:53671]  DVTAssertions: Warning in DVTiOSFrameworks/DTDeviceKitBase/DTDKRemoteDeviceData.m:408
+Details:  (null) deviceType from bc83e245b6b7c1e3fea22107acdcd350acb158b9 was NULL when -platform called.
+Object:   <DTDKMobileDeviceToken: 0x1240fc440>
+Method:   -platform
+Thread:   <NSThread: 0x1241ccf90>{number = 4, name = (null)}
+Please file a bug at https://feedbackassistant.apple.com with this warning message and any useful information you can provide.
+2024-08-31 22:29:07.044 xcodebuild[5798:53179]  DVTAssertions: Warning in DVTiOSFrameworks/DTDeviceKitBase/DTDKRemoteDeviceData.m:408
+Details:  (null) deviceType from bc83e245b6b7c1e3fea22107acdcd350acb158b9 was NULL when -platform called.
+Object:   <DTDKMobileDeviceToken: 0x1240fc440>
+Method:   -platform
+Thread:   <NSThread: 0x154c20250>{number = 2, name = (null)}
+Please file a bug at https://feedbackassistant.apple.com with this warning message and any useful information you can provide.
+2024-08-31 22:29:07.275 xcodebuild[5798:53179]  DVTAssertions: Warning in DVTiOSFrameworks/DTDeviceKitBase/DTDKRemoteDeviceData.m:408
+Details:  (null) deviceType from bc83e245b6b7c1e3fea22107acdcd350acb158b9 was NULL when -platform called.
+Object:   <DTDKMobileDeviceToken: 0x1240fc440>
+Method:   -platform
+Thread:   <NSThread: 0x154c20250>{number = 2, name = (null)}
+Please file a bug at https://feedbackassistant.apple.com with this warning message and any useful information you can provide.
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:9E76C0F2-B8A3-48CA-9023-830E6C9439D3, OS:17.5, name:iPhone 15 Pro }
+{ platform:iOS Simulator, id:9E76C0F2-B8A3-48CA-9023-830E6C9439D3, OS:17.5, name:iPhone 15 Pro }
